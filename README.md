@@ -5,8 +5,8 @@
 <b>-Retrofit</b></h2>
 <br>
 <h3>Home Page</h3>
-<img src="screenshots/musicHome.png" width="200">
+<img src="screenshots/musicHome.png" width="250">
 <br>
 <h3>Result Page</h3>
-<img src="screenshots/musicResult.png" width="200">
+<img src="screenshots/musicResult.png" width="250">
 
